@@ -1,0 +1,15 @@
+body{
+    background-color:#151c28;
+    text-align: center;
+}
+h1{
+    color:#ffef14;
+}
+li{
+    border: solid 2px #ffef14;
+    border-radius: 10px;
+    margin: 3px 600px 3px 600px;
+}
+li:hover{
+    background-color: #8daec6;
+}
